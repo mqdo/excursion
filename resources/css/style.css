@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    color: gray;
+    font-size: 21px;
+}
+
+#Checkmark {
+    text-align: right;
+}
+
+#phone {
+    padding-top: 20px;
+    float: none;
+}
